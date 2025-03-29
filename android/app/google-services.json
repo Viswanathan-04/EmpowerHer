@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1029545035222",
+    "project_id": "empowerher-f63c9",
+    "storage_bucket": "empowerher-f63c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029545035222:android:5aa0d88a8f19de27561077",
+        "android_client_info": {
+          "package_name": "com.example.empowerher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029545035222-aqdek9s0581rr3ep2t6iu0mk8o5pa008.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1mLMC1dcpBQ6BHyn2zi--JIKJ880v-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029545035222-aqdek9s0581rr3ep2t6iu0mk8o5pa008.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029545035222-7kkl86bkd5o45re5nvkooniuja4rq61v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.empowerher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
